@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{85C7D853-7DD2-4E3B-87D1-C4CE222C9928}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsApp1/My Project/Settings.settings">
+    <Files>
+      <File FileName="WindowsApp1/SuperImpactor.vb" Line="142" Column="32" />
+      <File FileName="WindowsApp1/My Project/AssemblyInfo.vb" />
+      <File FileName="WindowsApp1/Main.vb" />
+      <File FileName="WindowsApp1/SuperImpactor.resx" />
+      <File FileName="WindowsApp1/AppleService.vb" />
+      <File FileName="WindowsApp1/AutoResign.vb" />
+      <File FileName="WindowsApp1/Common.vb" />
+      <File FileName="WindowsApp1/Database.vb" Line="56" Column="1" />
+      <File FileName="WindowsApp1/Install.Designer.vb" />
+      <File FileName="WindowsApp1/ReportBug.vb" />
+      <File FileName="WindowsApp1/WebConsole.vb" />
+      <File FileName="WindowsApp1/CydiaRepoManager.vb" />
+      <File FileName="WindowsApp1/AppDetail.vb" />
+      <File FileName="WindowsApp1/AppleAccounts.vb" />
+      <File FileName="WindowsApp1/AppleAppInfo.vb" />
+      <File FileName="WindowsApp1/CertificateDelete.Designer.vb" />
+      <File FileName="WindowsApp1/AppInfos.vb" />
+      <File FileName="WindowsApp1/AppIdDelete.vb" />
+      <File FileName="WindowsApp1/App.config" />
+      <File FileName="WindowsApp1/My Project/Settings.settings" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstallAnyIPA" expanded="True">
+            <Node name="InstallAnyIPA" expanded="True">
+              <Node name="download" expanded="True" />
+              <Node name="My Project" expanded="True">
+                <Node name="Settings.settings" selected="True" />
+              </Node>
+              <Node name="CertificateDelete.vb" expanded="True" />
+              <Node name="Install.vb" expanded="True" />
+              <Node name="SuperImpactor.vb" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InstallAnyIPA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
