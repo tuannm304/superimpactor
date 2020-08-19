@@ -1,6 +1,6 @@
-# superimpactor
+# SuperImpactor
 
-superimpactor - Alternative to Cydia Impactor with auto resigning and integrated apps repo
+SuperImpactor - Alternative to Cydia Impactor with auto resigning and integrated apps repo
 https://superimpactor.net
 
 I am busy so today I opensource my SuperImpactor sourcecode and hope that other developers could continue to support for users. 
